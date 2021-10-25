@@ -1,0 +1,26 @@
+.mb-3 { /* search bar */
+    margin-top: 1rem;
+}
+
+.card-body > p{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.card-title {
+    display: flex;
+    justify-content: space-between;
+}
+
+.view-count {
+    display: grid;
+    grid-template-columns: min-content min-content;
+    grid-column-gap: 5px;
+    align-items: center;
+    font-size: small;
+}
+.view-count > .oi { /* icon */
+    padding-top: 0.15em;
+}

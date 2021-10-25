@@ -1,0 +1,2764 @@
+{
+    "response": {
+        "status": "Ok",
+        "code": "0",
+        "bands": [
+            {
+                "uid": 101769,
+                "id": 101769,
+                "name": "Pierre Chappuis-H.",
+                "language": null,
+                "permalink": "https://mx3.ch/pierrechappuis",
+                "public_page_url": "https://mx3.ch/pierrechappuis",
+                "permalink_name": "pierrechappuis",
+                "created_at": "2017-02-13T14:57:25.000Z",
+                "city": "2013 Colombier",
+                "address": "Battieux 6a ",
+                "country": null,
+                "email": "pitch.hebler@gmail.com",
+                "profile_views_count": 6397,
+                "playlists_count": 1,
+                "image": "https://mx3.ch/pictures/mx3/file/0087/1480/square_small/epiphone.jpg?1515659507",
+                "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0087/1480/square_small/epiphone.jpg?1515659507",
+                "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0087/1480/square_small/epiphone.jpg?1515659507",
+                "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0087/1480/square_small/epiphone.jpg?1515659507",
+                "url_for_image_original": "https://mx3.ch/pictures/mx3/file/0087/1480/original/epiphone.jpg?1515659507",
+                "links": [
+                    {
+                        "name": null,
+                        "href": "https://fr-fr.facebook.com/public/Pierre-Chappuis"
+                    },
+                    {
+                        "name": null,
+                        "href": "http://mx3.ch/pierrechappuis"
+                    }
+                ],
+                "biographies": [
+                    {
+                        "language_code": "FR",
+                        "description": "né à Berne, vit à Colombier (NE)\nEcole primaire  à  Colombier (NE)\nEcole secondaire à Neuchâtel et Colombier\nEcole supérieure de Commerce à Neuchâtel et La Chaux-de-Fonds\nCarrière professionnelle dans la fonction publique du canton de Neuchâtel\nEn retraite (très) anticipée depuis janvier 2015.\nMusique :\nDE BLUES ET D'AILLEURS : décembre 2016. Album suisse de la semaine sur RTS Option Musique (23-27 janvier 2017) \nCHERBOURG : janvier 2018 \nALTERNATE TAKES : juin 2018\nLA MAISON VIDE : novembre 2019\n\nAuteur de 4 recueils de poésie et textes courts :\n- Passeport (à John Lennon) : 1984\n- Sortie de secours (histoires et clichés) : 1986\n- A Ban : 1988\n- L'arme à l'œil : 1990\n"
+                    }
+                ],
+                "categories": [
+                    {
+                        "id": 1,
+                        "name": "Chanson"
+                    }
+                ],
+                "state": {
+                    "name": "Neuchâtel",
+                    "code": "NE"
+                },
+                "listening_count": 6450,
+                "listening_count_last_period": 0,
+                "is_broadcasted": true,
+                "singles_count": 37,
+                "performances": []
+            },
+            {
+                "uid": 7158,
+                "id": 7158,
+                "name": "Pierre",
+                "language": null,
+                "permalink": "https://mx3.ch/pierre",
+                "public_page_url": "https://mx3.ch/pierre",
+                "permalink_name": "pierre",
+                "created_at": "2006-09-27T12:54:24.000Z",
+                "city": "Neuchâtel",
+                "address": null,
+                "country": null,
+                "email": "pimenet@hotmail.com",
+                "profile_views_count": 6417,
+                "playlists_count": 2,
+                "image": "https://mx3.ch/pictures/mx3/file/0030/1705/square_small/premiersreg.jpg?1398348024",
+                "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1705/square_small/premiersreg.jpg?1398348024",
+                "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1705/square_small/premiersreg.jpg?1398348024",
+                "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1705/square_small/premiersreg.jpg?1398348024",
+                "url_for_image_original": "https://mx3.ch/pictures/mx3/file/0030/1705/original/premiersreg.jpg?1398348024",
+                "links": [
+                    {
+                        "name": "Blog",
+                        "href": "http://premiersregards.over-blog.com"
+                    }
+                ],
+                "biographies": [],
+                "categories": [
+                    {
+                        "id": 1,
+                        "name": "Chanson"
+                    }
+                ],
+                "state": {
+                    "name": "Neuchâtel",
+                    "code": "NE"
+                },
+                "listening_count": 218,
+                "listening_count_last_period": 0,
+                "is_broadcasted": false,
+                "singles_count": 2,
+                "performances": []
+            },
+            {
+                "uid": 14311,
+                "id": 14311,
+                "name": "PIERRE-DO",
+                "language": null,
+                "permalink": "https://mx3.ch/pierredo",
+                "public_page_url": "https://mx3.ch/pierredo",
+                "permalink_name": "pierredo",
+                "created_at": "2007-08-17T22:07:16.000Z",
+                "city": null,
+                "address": null,
+                "country": null,
+                "email": "contactpierredo@yahoo.fr",
+                "profile_views_count": 10798,
+                "playlists_count": 1,
+                "image": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                "url_for_image_original": "https://mx3.ch/pictures/mx3/file/0030/4280/original/petit_pierre-do.jpg?1398374676",
+                "links": [
+                    {
+                        "name": "Site Officiel",
+                        "href": "http://pierredo.com/"
+                    },
+                    {
+                        "name": "My space",
+                        "href": "http://www.myspace.com/pierredo"
+                    }
+                ],
+                "biographies": [
+                    {
+                        "language_code": "FR",
+                        "description": "Univers multiformes et déglingués, imprégnés de mélancolie et d’autodérision. Musiques expressives, mélange de jazz, de cabaret, de fanfare et de musique de chambre. Pierre-Do chante le bordel de la vie et les mites alimentaires, les aléas de l’amour et l’amour des aléas. \nPianiste et saxophoniste de jazz, Pierre-Do écrit ses chansons depuis 1992. Il a gagné le prix de la Suisa à Liège en 1994, et celui de la chanson RSR Nouvelles Scènes en 1996. Il a notamment joué au Fesival de la Cité de Lausanne, aux Francomanias de Bulle, au Palais des Congrès de Liège et au Limonaire à Paris. \n\nDe 2005 à 2009, il a co-animé l'émission radio \"Les Patriotes\" sur Rouge FM. Depuis 2009, il est chroniqueur humoriste au morning de Rouge FM (\"La Scie à bois, car la vanne passe\"). Il a également produit  différents contenus humoristiques TV pour la RTS, Rouge TV et les télés régionales. \n\nAprès 5 ans d'absence, 2013 est l'année du retour à la scène. Pierre-Do présente un nouveau spectacle de chansons pas tout à fait épilées (donc un peu poilantes), avec comme tout le monde un ukulélé, mais aussi un piano, le tout accompagné d'un quintette à cordes. \n\n"
+                    }
+                ],
+                "categories": [
+                    {
+                        "id": 1,
+                        "name": "Chanson"
+                    }
+                ],
+                "state": {
+                    "name": "Fribourg",
+                    "code": "FR"
+                },
+                "listening_count": 569,
+                "listening_count_last_period": 0,
+                "is_broadcasted": false,
+                "singles_count": 5,
+                "performances": [
+                    {
+                        "name": "Pierre-Do",
+                        "date": "2007-12-07T01:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Pierre-Do au Connétable",
+                        "location": "Le Connétable, Paris",
+                        "location_url": "http://www.lesbainsdouches.net/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Ma vie, mon bordel",
+                        "date": "2014-12-12T19:30:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Le Bilboquet",
+                        "location": "Fribourg",
+                        "location_url": "http://www.lebilboquet.ch/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Ma vie, mon bordel",
+                        "date": "2014-12-13T19:30:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Le Bilboquet",
+                        "location": "Fribourg",
+                        "location_url": "http://www.lebilboquet.ch/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": null,
+                        "date": "2008-01-12T19:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Hôtel de Ville",
+                        "location": "Estavayer-le-Lac",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": null,
+                        "date": "2008-01-18T19:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Les Bains Douches",
+                        "location": "Paris",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": null,
+                        "date": "2008-01-20T19:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Les Bains Douches",
+                        "location": "Paris",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": null,
+                        "date": "2008-02-08T19:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Le Connétable",
+                        "location": "Paris",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": null,
+                        "date": "2008-02-15T19:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Les Bains Douches",
+                        "location": "Paris",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": null,
+                        "date": "2008-03-21T19:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Les Bains Douches",
+                        "location": "Paris",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": null,
+                        "date": "2008-04-12T19:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Le Connétable",
+                        "location": "Paris",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": null,
+                        "date": "2008-06-20T21:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Les Bains Douches",
+                        "location": "Paris",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": null,
+                        "date": "2008-05-16T21:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Les Bains Douches",
+                        "location": "Paris",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": null,
+                        "date": "2008-10-08T21:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Le Connétable",
+                        "location": "Paris",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Nouveau spectacle (avec quintette à cordes)",
+                        "date": "2013-12-13T21:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "La Spirale",
+                        "location": "Fribourg",
+                        "location_url": "http://www.laspirale.ch",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre-Do",
+                        "date": "2008-07-18T23:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Jazz Parade",
+                        "location": "1700 Fribourg",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre-Do",
+                        "date": "2008-04-12T21:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Le Connétable",
+                        "location": "75003 Paris",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre-Do",
+                        "date": "2008-04-11T21:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Les Bains Douches",
+                        "location": "75003 Paris",
+                        "location_url": "http://www.lesbainsdouches.net/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre-Do",
+                        "date": "2008-03-14T21:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Le Nouveau Monde",
+                        "location": "Le Nouveau Monde Fribourg",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre-Do",
+                        "date": "2007-12-02T01:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Pierre-Do aux Bains",
+                        "location": "Les Bains, Paris",
+                        "location_url": "http://www.lesbainsdouches.net/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre-Do",
+                        "date": "2007-11-30T01:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Pierre-Do aux Bains",
+                        "location": "Les Bains, Paris",
+                        "location_url": "http://www.lesbainsdouches.net/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre-Do",
+                        "date": "2007-10-21T01:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Pierre-Do aux Bains",
+                        "location": "Les Bains, Paris",
+                        "location_url": "http://www.lesbainsdouches.net/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre-Do",
+                        "date": "2007-10-19T21:00:00.000Z",
+                        "band_name": "PIERRE-DO",
+                        "stage_name": "Les Bains",
+                        "location": "Les Bains, Paris",
+                        "location_url": "http://www.lesbainsdouches.net/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 14311,
+                            "name": "PIERRE-DO",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/4280/square_small/petit_pierre-do.jpg?1398374676",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    }
+                ]
+            },
+            {
+                "uid": 22228,
+                "id": 22228,
+                "name": "Pierre Normal",
+                "language": null,
+                "permalink": "https://mx3.ch/pierrenormal",
+                "public_page_url": "https://mx3.ch/pierrenormal",
+                "permalink_name": "pierrenormal",
+                "created_at": "2008-05-29T18:41:17.000Z",
+                "city": "en exil",
+                "address": null,
+                "country": null,
+                "email": null,
+                "profile_views_count": 9836,
+                "playlists_count": 1,
+                "image": "https://mx3.ch/pictures/mx3/file/0030/8530/square_small/TilburgRouge.jpg?1398382418",
+                "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/8530/square_small/TilburgRouge.jpg?1398382418",
+                "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/8530/square_small/TilburgRouge.jpg?1398382418",
+                "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/8530/square_small/TilburgRouge.jpg?1398382418",
+                "url_for_image_original": "https://mx3.ch/pictures/mx3/file/0030/8530/original/TilburgRouge.jpg?1398382418",
+                "links": [
+                    {
+                        "name": "My space",
+                        "href": "http://www.myspace.com/pierrenormalpneu"
+                    },
+                    {
+                        "name": "Site web",
+                        "href": "http://www.pneu.org/spip.php?article39"
+                    }
+                ],
+                "biographies": [
+                    {
+                        "language_code": "FR",
+                        "description": "Pierre Normal est un composé.\nPierre Normal est un précipité.\nPierre Normal a 5 ans.\nPierre Normal a 91 ans.\nPierre Normal a la tête d’un enfant.\nPierre Normal ne se soucie guère de ce qui lui est présenté comme nouveau ; il préfère se tourner vers un futur vivant.\nPierre Normal n’est pas retro, mais il ne veut pas oublier.\nPierre Normal raconte des histoires.\nPierre Normal est une vieille dame avec des illusions.\nPierre Normal ne sait pas, elle cherche encore.\nPierre Normal ne parle pas avec une feuille devant la bouche.\nPierre Normal aime les ondes, danse et regarde parfois par la fenêtre avec mélancolie.\nPierre Normal pense que des choses peuvent arriver grâce à la musique, que chaque monde engendre sa propre musique et que celui qui vient réclame la sienne.\nPierre Normal se laisse volontiers tomber.\nPierre Normal n’a pas peur des machines, mais se méfie des intentions de leurs concepteurs.\nPierre Normal a beaucoup de cousins, mais elle ne les connait de loin pas tous.\n\n\nPierre Normal apparaît lorsque Rachel Sassi, P. Jupiter et D. Trep se rejoignent, lorsqu’ils deviennent ce qu’ils ne peuvent pas être tout seuls. Se d�roulent alors des séquences et des motifs rythmiques qui filent au dehors d’instruments électroniques, des mélodies de synthétiseurs et puis du chant, souvent en français. Il y a une amitié pour les plaines en brumes, les ciels bas et les fines pluies fraîches.\n\n---- - - - - ---- ----- - - ------ ----\n\nPierre Normal ist ein Konglomerat.\nPierre Normal ist 5 Jahre alt. Pierre Normal ist 91 Jahre alt. Pierre Normal ist ein Kindskopf.\nPierre Normal kümmert sich nur wenig darum was als neu angepriesen wird, er möchte in eine lebbare Zukunft blicken. Pierre Normal ist nicht retro, doch will er nicht vergessen, er erzählt gerne Geschichten aus dem Leben.\nPierre Normal ist eine alte Dame mit Illusionen.\nPierre Normal weiss es nicht besser, doch sucht sie weiter. Pierre Normal nimmt kein Blatt vor den Mund, wenn sie etwas erkannt hat. Pierre Normal liebt Wellen, tanzt gerne und schaut manchmal melancholisch aus dem Fenster in ferne Weiten. Pierre Normal scheint, dass mit Musik Dinge geschehen können, denkt dass jede Welt eine Musik macht, dass auch die nächste eine brauchen wird.\nPierre Normal lässt sich gerne fallen.\nPierre Normal hat keine Angst vor Maschinen doch misstraut sie den Ideen der Erfinder. Pierre Normal hat viele Cousinen doch kennt sie noch lange nicht alle.\nPierre Normal sucht Pierre Normal.\n\nEine Pierre Normal taucht auf wenn sich Rachel Sassi, P. Jupiter und D. Trep finden um sie zu beleben, wenn sie durch sie sein wollen was sie nicht alleine sein können.\n\n---- - - - - ---- ----- - - ------ ----\n\nPierre Normal is much about seeking. Most of all by seeking a way not to stay silent under the pressure exercised by the surrounding capitalist suicide. A seek to perhaps be able again to sing and play, words and music, as what they can be ; magic to spin bridges between the unconnected. The soil is mined, the confusion great but there is no choice, raging and crying in silence is losing our lives to what must become a unconscious enemy ; a system. It uses words only to complete its functionality and needs music only to trick out mistrust by appealing to our sentiments.\nWe want to laugh and dance but sometimes can only cry and destroy. "
+                    }
+                ],
+                "categories": [
+                    {
+                        "id": 1,
+                        "name": "Chanson"
+                    }
+                ],
+                "state": {
+                    "name": "Genève",
+                    "code": "GE"
+                },
+                "listening_count": 662,
+                "listening_count_last_period": 0,
+                "is_broadcasted": false,
+                "singles_count": 8,
+                "performances": []
+            },
+            {
+                "uid": 30745,
+                "id": 30745,
+                "name": "pierre hier",
+                "language": null,
+                "permalink": "https://mx3.ch/pierrehier",
+                "public_page_url": "https://mx3.ch/pierrehier",
+                "permalink_name": "pierrehier",
+                "created_at": "2009-02-22T23:00:42.000Z",
+                "city": null,
+                "address": null,
+                "country": null,
+                "email": null,
+                "profile_views_count": 3639,
+                "playlists_count": 1,
+                "image": "https://mx3.ch/pictures/mx3/file/0030/9444/square_small/gehHase.jpg?1398384981",
+                "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/9444/square_small/gehHase.jpg?1398384981",
+                "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/9444/square_small/gehHase.jpg?1398384981",
+                "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/9444/square_small/gehHase.jpg?1398384981",
+                "url_for_image_original": "https://mx3.ch/pictures/mx3/file/0030/9444/original/gehHase.jpg?1398384981",
+                "links": [],
+                "biographies": [
+                    {
+                        "language_code": "FR",
+                        "description": "revolution jetzt. los. das. lied."
+                    }
+                ],
+                "categories": [
+                    {
+                        "id": 1,
+                        "name": "Chanson"
+                    }
+                ],
+                "state": {
+                    "name": "Bâle-Ville",
+                    "code": "BS"
+                },
+                "listening_count": 214,
+                "listening_count_last_period": 0,
+                "is_broadcasted": false,
+                "singles_count": 1,
+                "performances": []
+            },
+            {
+                "uid": 39177,
+                "id": 39177,
+                "name": "Pierre Piccarde",
+                "language": null,
+                "permalink": "https://mx3.ch/pierrepiccarde",
+                "public_page_url": "https://mx3.ch/pierrepiccarde",
+                "permalink_name": "pierrepiccarde",
+                "created_at": "2010-10-08T18:38:23.000Z",
+                "city": null,
+                "address": null,
+                "country": null,
+                "email": "info@pierrepiccarde.com",
+                "profile_views_count": 10390,
+                "playlists_count": 1,
+                "image": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                "url_for_image_original": "https://mx3.ch/pictures/mx3/file/0081/9182/original/foto.jpg?1464798808",
+                "links": [
+                    {
+                        "name": null,
+                        "href": "https://www.pierrepiccarde.com"
+                    },
+                    {
+                        "name": "EP Between",
+                        "href": "https://itunes.apple.com/ch/album/between-ep/id957380191"
+                    },
+                    {
+                        "name": null,
+                        "href": "http://www.youtube.com/PierrePiccarde"
+                    },
+                    {
+                        "name": "Facebook",
+                        "href": "http://www.facebook.com/pages/Pierre-Piccarde/111883051456?ref=hl"
+                    },
+                    {
+                        "name": "Album Signification",
+                        "href": "http://www.cede.ch/de/music-cd/frames/right.cfm?aobj=322712"
+                    },
+                    {
+                        "name": "Twitter",
+                        "href": "https://twitter.com/PierrePiccarde"
+                    },
+                    {
+                        "name": "Site web",
+                        "href": "http://www.pierrepiccarde.com/"
+                    }
+                ],
+                "biographies": [],
+                "categories": [
+                    {
+                        "id": 46,
+                        "name": "Pop"
+                    }
+                ],
+                "state": {
+                    "name": "Bâle-Ville",
+                    "code": "BS"
+                },
+                "listening_count": 19576,
+                "listening_count_last_period": 0,
+                "is_broadcasted": false,
+                "singles_count": 25,
+                "performances": [
+                    {
+                        "name": "Pierre Piccarde \"unplugged\"",
+                        "date": "2018-12-01T20:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Live on Stage",
+                        "location": "Mezzo?s Place ",
+                        "location_url": "https://mezzosplace.chayns.net/events",
+                        "shopping_url": "http://www.pierrepiccarde.com/",
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre Piccarde \"showcase\"",
+                        "date": "2018-11-03T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Grossi Glaibasler Källerabstiegs-Party",
+                        "location": "Rappoltshof",
+                        "location_url": "https://www.facebook.com/events/434150657109100/",
+                        "shopping_url": "http://www.pierrepiccarde.com/",
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre Piccarde \"unplugged\"",
+                        "date": "2018-10-25T19:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Live on Stage",
+                        "location": "Brick Zürich",
+                        "location_url": "http://brickbar.ch/ueber-mich/",
+                        "shopping_url": "http://www.pierrepiccarde.com/",
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "The Village Baselworld week",
+                        "date": "2018-03-26T20:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "The Village",
+                        "location": "Acqua Basel",
+                        "location_url": "https://www.facebook.com/events/815609715316343/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "The Village Baselworld week",
+                        "date": "2018-03-23T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "The Village",
+                        "location": "Acqua Basel",
+                        "location_url": "https://www.facebook.com/events/815609715316343/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Singer Basel",
+                        "date": "2017-11-21T19:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Pierre is unplugged",
+                        "location": "Singer Basel",
+                        "location_url": "http://singerbasel.ch/",
+                        "shopping_url": "http://singerbasel.ch/#/de/bar/events",
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Singer Basel",
+                        "date": "2017-11-07T19:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Pierre is unplugged",
+                        "location": "Singer Basel",
+                        "location_url": "http://singerbasel.ch/",
+                        "shopping_url": "http://singerbasel.ch/#/de/bar/events",
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Singer Basel",
+                        "date": "2017-10-24T18:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Pierre is unplugged",
+                        "location": "Singer Basel",
+                        "location_url": "http://singerbasel.ch/",
+                        "shopping_url": "http://singerbasel.ch/#/de/bar/events",
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Singer Basel",
+                        "date": "2017-10-10T17:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Pierre is unplugged",
+                        "location": "Singer Basel",
+                        "location_url": "http://singerbasel.ch/",
+                        "shopping_url": "http://singerbasel.ch/#/de/bar/events",
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "The Village Baselworldweek",
+                        "date": "2017-03-29T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "The Village",
+                        "location": "Acqua Basel",
+                        "location_url": "https://www.facebook.com/events/154845448367695/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "The Village Baselworldweek",
+                        "date": "2017-03-26T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "The Village",
+                        "location": "Acqua Basel",
+                        "location_url": "https://www.facebook.com/events/154845448367695/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "The Village Baselworld week",
+                        "date": "2017-03-25T22:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "The Village",
+                        "location": "Acqua Basel",
+                        "location_url": "https://www.facebook.com/events/154845448367695/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "The Village Baselworld week",
+                        "date": "2017-03-24T22:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Baselworld",
+                        "location": "Acqua Basel",
+                        "location_url": "https://www.facebook.com/events/154845448367695/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "THE NEW DISCO FUNKY HOUSE NIGHT",
+                        "date": "2016-04-09T19:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Bar Rouge",
+                        "location": "Bar Rouge",
+                        "location_url": "http://www.barrouge.ch/de/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Basel World Village",
+                        "date": "2016-03-23T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Basel World Village",
+                        "location": "Acqua",
+                        "location_url": "http://www.baselworld.com/de-CH/Visitors/TheVillage.aspx",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Basel World Village",
+                        "date": "2016-03-22T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Basel World Village",
+                        "location": "Acqua",
+                        "location_url": "http://www.baselworld.com/de-CH/Visitors/TheVillage.aspx",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Basel World Village",
+                        "date": "2016-03-21T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Basel World Village",
+                        "location": "Acqua",
+                        "location_url": "http://www.baselworld.com/de-CH/Visitors/TheVillage.aspx",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Basel World Village",
+                        "date": "2016-03-20T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Basel World Village",
+                        "location": "Acqua",
+                        "location_url": "http://www.baselworld.com/de-CH/Visitors/TheVillage.aspx",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "basel Wolrld Village",
+                        "date": "2016-03-19T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Basel World Village",
+                        "location": "Acqua",
+                        "location_url": "http://www.baselworld.com/de-CH/Visitors/TheVillage.aspx",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Basel World Village",
+                        "date": "2016-03-18T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Basel World Village 2016",
+                        "location": "Acqua",
+                        "location_url": "http://www.baselworld.com/de-CH/Visitors/TheVillage.aspx",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Basel World Village",
+                        "date": "2016-03-17T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Basel World Village 2016",
+                        "location": "Acqua",
+                        "location_url": "http://www.baselworld.com/de-CH/Visitors/TheVillage.aspx",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Root Down",
+                        "date": "2015-01-31T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Root Down",
+                        "location": "Waldsee Freiburg",
+                        "location_url": "https://www.facebook.com/pierre.piccarde#!/events/629744517138012/?pnref=story",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Atlantis",
+                        "date": "2012-08-24T09:30:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Klosterbergfest Basel",
+                        "location": "Basel",
+                        "location_url": "http://www.funkydelicious.ch/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Badenfahrt",
+                        "date": "2012-08-25T09:30:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Badenfahrt",
+                        "location": "Baden",
+                        "location_url": "http://www.funkydelicious.ch/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Klosterbergfest 2014",
+                        "date": "2014-08-29T20:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Klosterbergfest",
+                        "location": "Atlantis",
+                        "location_url": "https://www.facebook.com/events/1457557151179028/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "White Dinner BAsel",
+                        "date": "2015-09-11T16:30:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "White Dinner Basel",
+                        "location": "Basel City",
+                        "location_url": "http://whitedinnerbasel.ch/",
+                        "shopping_url": "http://whitedinnerbasel.ch/",
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Freiluft Baden",
+                        "date": "2015-05-16T16:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Oberstadt-Areal Baden",
+                        "location": "Open Air",
+                        "location_url": "http://www.freiluft-baden.ch/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "BASELWORLD VILLAGE",
+                        "date": "2015-03-25T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "BASELWORLD VILLAGE",
+                        "location": "Village",
+                        "location_url": "http://www.baselworld.com/de-CH/Visitors/TheVillage.aspx",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "BASELWORLD VILLAGE",
+                        "date": "2015-03-24T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "BASELWORLD VILLAGE",
+                        "location": "Village",
+                        "location_url": "http://www.baselworld.com/de-CH/Visitors/TheVillage.aspx",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "BASELWORLD VILLAGE",
+                        "date": "2015-03-23T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "BASELWORLD VILLAGE",
+                        "location": "Village",
+                        "location_url": "http://www.baselworld.com/de-CH/Visitors/TheVillage.aspx",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "BASELWORLD VILLAGE",
+                        "date": "2015-03-22T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "BASELWORLD VILLAGE",
+                        "location": "Village",
+                        "location_url": "http://www.baselworld.com/de-CH/Visitors/TheVillage.aspx",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "BASELWORLD VILLAGE",
+                        "date": "2015-03-21T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "BASELWORLD VILLAGE",
+                        "location": "Village",
+                        "location_url": "http://www.baselworld.com/de-CH/Visitors/TheVillage.aspx",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "BASELWORLD VILLAGE",
+                        "date": "2015-03-20T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "BASELWORLD VILLAGE",
+                        "location": "Village",
+                        "location_url": "http://www.baselworld.com/de-CH/Visitors/TheVillage.aspx",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "BASELWORLD VILLAGE",
+                        "date": "2015-03-19T21:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "BASELWORLD VILLAGE",
+                        "location": "Village",
+                        "location_url": "http://www.baselworld.com/de-CH/Visitors/TheVillage.aspx",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre Piccarde feat. Funky Delicious",
+                        "date": "2015-05-09T18:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Stalden",
+                        "location": "Hotel Stalden",
+                        "location_url": "http://www.stalden.com/index.cfm?Page=N01\u0026Rubrik=Events",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre Piccarde feat. Funky Delicious",
+                        "date": "2015-04-11T16:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Open Air ",
+                        "location": "Baden AG",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre Piccarde feat. Funky Delicious",
+                        "date": "2015-03-14T18:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Basel",
+                        "location": "Rappoltshof Basel",
+                        "location_url": "https://www.facebook.com/events/963110943740190/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Hafenfest 2014",
+                        "date": "2014-09-12T18:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Hafenfest Basel",
+                        "location": "Open Air",
+                        "location_url": "http://www.hafenfest.ch/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Kupp \u0026 Musik",
+                        "date": "2014-08-02T17:55:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Kupp Turnier",
+                        "location": "Sportanlage-Esp-Fislisbach",
+                        "location_url": "https://www.facebook.com/events/298022970379319/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Open Air im Grünen 2014",
+                        "date": "2014-06-28T18:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Open Air im Grünen",
+                        "location": "Open Air",
+                        "location_url": "http://www.bluesmerize.ch/",
+                        "shopping_url": "http://www.bluesmerize.ch/",
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "25UP B-Day",
+                        "date": "2014-01-03T22:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Kuppel",
+                        "location": "Basel",
+                        "location_url": "http://www.kuppel.ch",
+                        "shopping_url": "http://www.kuppel.ch",
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": {
+                            "id": 12498,
+                            "name": "Kuppel",
+                            "address": "Binningerstrasse 14\n",
+                            "city": "4051 Basel"
+                        }
+                    },
+                    {
+                        "name": "Pierre Piccarde feat. Funky Delicious",
+                        "date": "2013-12-28T19:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Pierre Piccarde",
+                        "location": "Basel",
+                        "location_url": "http://www.pierrepiccarde.com/",
+                        "shopping_url": "http://www.kulturium56.ch/",
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Soulful 25UP",
+                        "date": "2012-11-23T23:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Kuppel",
+                        "location": "Basel",
+                        "location_url": "http://www.kuppel.ch/events/detail/824",
+                        "shopping_url": "http://www.kuppel.ch/events/detail/824",
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": {
+                            "id": 12498,
+                            "name": "Kuppel",
+                            "address": "Binningerstrasse 14\n",
+                            "city": "4051 Basel"
+                        }
+                    },
+                    {
+                        "name": "Badenfahrt",
+                        "date": "2012-08-17T09:30:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Badenfahrt",
+                        "location": "Baden",
+                        "location_url": "http://www.funkydelicious.ch/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "http://www.funkydelicious.ch/",
+                        "date": "2012-06-16T20:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Funky Delicious",
+                        "location": "Weiningen",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": null,
+                        "date": "2012-05-03T20:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Wohnzimmer \"Zu Dir\"",
+                        "location": "Baden",
+                        "location_url": "https://www.facebook.com/events/265746923522017/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "http://www.dasweisseschaf.ch/",
+                        "date": "2012-04-28T22:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Weisse Schaf",
+                        "location": "Luzern",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "SHOWCASE",
+                        "date": "2011-01-07T22:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Pierre Piccarde",
+                        "location": "Kuppel Basel",
+                        "location_url": "http://www.kuppel.ch/events/detail/379",
+                        "shopping_url": "http://www.25up.ch/",
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Party inkl. PA",
+                        "date": "2010-12-17T23:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Pierre Piccarde",
+                        "location": "Atlantis",
+                        "location_url": "http://www.atlan-tis.ch/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "SHOWCASE",
+                        "date": "2010-11-12T19:00:00.000Z",
+                        "band_name": "Pierre Piccarde",
+                        "stage_name": "Pierre Piccarde",
+                        "location": "Das Schwarze Schaf",
+                        "location_url": "http://www.dasschwarzeschaf.ch/",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 39177,
+                            "name": "Pierre Piccarde",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0081/9182/square_small/foto.jpg?1464798808",
+                            "categories": [
+                                {
+                                    "id": 46,
+                                    "name": "Pop"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    }
+                ]
+            },
+            {
+                "uid": 100876,
+                "id": 100876,
+                "name": "Pierre Sandrin",
+                "language": null,
+                "permalink": "https://mx3.ch/pierresandrin",
+                "public_page_url": "https://mx3.ch/pierresandrin",
+                "permalink_name": "pierresandrin",
+                "created_at": "2016-06-13T19:21:14.000Z",
+                "city": null,
+                "address": null,
+                "country": null,
+                "email": null,
+                "profile_views_count": 600,
+                "playlists_count": 0,
+                "image": "https://mx3.ch/assets/missing/missing_user_square_small-1f1218bc9510cea27e610cf7c9df4f79e1384bee80393b9ce47d2d678d81b892.jpg",
+                "url_for_image_thumb": "https://mx3.ch/assets/missing/missing_user_square_small-1f1218bc9510cea27e610cf7c9df4f79e1384bee80393b9ce47d2d678d81b892.jpg",
+                "url_for_image_head": "https://mx3.ch/assets/missing/missing_user_square_small-1f1218bc9510cea27e610cf7c9df4f79e1384bee80393b9ce47d2d678d81b892.jpg",
+                "url_for_image_list": "https://mx3.ch/assets/missing/missing_user_square_small-1f1218bc9510cea27e610cf7c9df4f79e1384bee80393b9ce47d2d678d81b892.jpg",
+                "url_for_image_original": "https://mx3.ch/assets/missing/missing_user_original-f7d74c4b6332901d57a85232ae3a3dec548af9813ac664a9645320d31ae5e2c2.jpg",
+                "links": [],
+                "biographies": [],
+                "categories": [
+                    {
+                        "id": 46,
+                        "name": "Pop"
+                    }
+                ],
+                "state": {
+                    "name": "Bâle-Ville",
+                    "code": "BS"
+                },
+                "listening_count": 0,
+                "listening_count_last_period": 0,
+                "is_broadcasted": false,
+                "singles_count": 0,
+                "performances": []
+            },
+            {
+                "uid": 102201,
+                "id": 102201,
+                "name": "Marc Pierre",
+                "language": null,
+                "permalink": "https://mx3.ch/marcpierre",
+                "public_page_url": "https://mx3.ch/marcpierre",
+                "permalink_name": "marcpierre",
+                "created_at": "2017-06-22T11:03:12.000Z",
+                "city": null,
+                "address": null,
+                "country": null,
+                "email": null,
+                "profile_views_count": 987,
+                "playlists_count": 0,
+                "image": "https://mx3.ch/assets/missing/missing_user_square_small-1f1218bc9510cea27e610cf7c9df4f79e1384bee80393b9ce47d2d678d81b892.jpg",
+                "url_for_image_thumb": "https://mx3.ch/assets/missing/missing_user_square_small-1f1218bc9510cea27e610cf7c9df4f79e1384bee80393b9ce47d2d678d81b892.jpg",
+                "url_for_image_head": "https://mx3.ch/assets/missing/missing_user_square_small-1f1218bc9510cea27e610cf7c9df4f79e1384bee80393b9ce47d2d678d81b892.jpg",
+                "url_for_image_list": "https://mx3.ch/assets/missing/missing_user_square_small-1f1218bc9510cea27e610cf7c9df4f79e1384bee80393b9ce47d2d678d81b892.jpg",
+                "url_for_image_original": "https://mx3.ch/assets/missing/missing_user_original-f7d74c4b6332901d57a85232ae3a3dec548af9813ac664a9645320d31ae5e2c2.jpg",
+                "links": [
+                    {
+                        "name": null,
+                        "href": "http://www.sleeve-tunisie.com/sleeve-gastrique/"
+                    },
+                    {
+                        "name": null,
+                        "href": "http://www.sleeve-tunisie.com/"
+                    },
+                    {
+                        "name": null,
+                        "href": "https://www.medespoir.fr/greffe-cheveux-tunisie/"
+                    },
+                    {
+                        "name": null,
+                        "href": "https://www.medespoir.fr/acide-hyaluronique-tunisie/"
+                    },
+                    {
+                        "name": null,
+                        "href": "https://www.medespoir.fr/injection-botox-tunisie/"
+                    },
+                    {
+                        "name": null,
+                        "href": "https://www.medespoir.fr/implant-dentaire-tunisie/"
+                    },
+                    {
+                        "name": null,
+                        "href": "https://www.medespoir.fr/augmentation-fesses-tunisie/"
+                    },
+                    {
+                        "name": null,
+                        "href": "https://www.medespoir.fr/abdominoplastie-tunisie/"
+                    },
+                    {
+                        "name": null,
+                        "href": "https://www.medespoir.fr/liposuccion-tunisie/"
+                    },
+                    {
+                        "name": null,
+                        "href": "https://www.medespoir.fr/rhinoplastie-tunisie/"
+                    },
+                    {
+                        "name": null,
+                        "href": "https://www.medespoir.fr/blepharoplastie-tunisie/"
+                    },
+                    {
+                        "name": null,
+                        "href": "https://www.medespoir.fr/lifting-seins-tunisie/"
+                    },
+                    {
+                        "name": null,
+                        "href": "https://www.medespoir.fr/augmentation-mammaire-tunisie/"
+                    },
+                    {
+                        "name": null,
+                        "href": "https://www.medespoir.fr/lifting-visage-tunisie/"
+                    },
+                    {
+                        "name": null,
+                        "href": "https://www.medespoir.fr/"
+                    }
+                ],
+                "biographies": [],
+                "categories": [
+                    {
+                        "id": 51,
+                        "name": "Techno dj dance"
+                    }
+                ],
+                "state": {
+                    "name": "Neuchâtel",
+                    "code": "NE"
+                },
+                "listening_count": 0,
+                "listening_count_last_period": 0,
+                "is_broadcasted": false,
+                "singles_count": 0,
+                "performances": []
+            },
+            {
+                "uid": 103515,
+                "id": 103515,
+                "name": "Claude Pierre",
+                "language": null,
+                "permalink": "https://mx3.ch/claudepierre",
+                "public_page_url": "https://mx3.ch/claudepierre",
+                "permalink_name": "claudepierre",
+                "created_at": "2018-04-03T20:55:44.000Z",
+                "city": "Visp",
+                "address": null,
+                "country": null,
+                "email": "claudepierremusic@hotmail.com",
+                "profile_views_count": 1840,
+                "playlists_count": 1,
+                "image": "https://mx3.ch/pictures/mx3/file/0088/2160/square_small/cd-cover.jpg?1522833069",
+                "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0088/2160/square_small/cd-cover.jpg?1522833069",
+                "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0088/2160/square_small/cd-cover.jpg?1522833069",
+                "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0088/2160/square_small/cd-cover.jpg?1522833069",
+                "url_for_image_original": "https://mx3.ch/pictures/mx3/file/0088/2160/original/cd-cover.jpg?1522833069",
+                "links": [
+                    {
+                        "name": null,
+                        "href": "https://www.claudepierremusic.com/"
+                    }
+                ],
+                "biographies": [
+                    {
+                        "language_code": "DE",
+                        "description": " Claude Pierre Lötscher wurde am 18.12.1992 in Visp (CH) geboren.\nNach abgeschlossener Lehre als Bürokaufmann, investierte er zunächst sehr viel Zeit und Energie in den Sport.\nAls Eishockey torhüter bei den Junioren vom EHC Visp, durfte er Erfolge in verschiedenen Kategorien feiern.\nSein persönliches sportliches Highlight:\n- Schweizermeister Elite Junioren B\nDanach verschlug es Claude nach Kanada, wo er als Torhüter für die Sturgeon Falls Lumberjacks (GMHL) unter Vertrag war.\nIm gleichen Jahr gewann er die GMHL Meisterschaft.\nNach der Rückkehr aus Kanada, spielte er noch eine kurze Zeit beim B-Ligisten HC Siders und musste anschliessend wegen gesundheitlichen Einschränkungen den Sport verlassen. Ein neues Kapital begann. Claude entschied, sich beruflich neu zu orientieren. Zuzeit absolviert er Den Studiegang Sozialpädagogik, praxisbegleitend an der HF BFF BERN. (Stand August 2017)\nClaude erinnert sich gerne zurück, als er mit 17 Jahren zum ersten Mal eine Gitarre in den Händen hatte und mithilfe des Internets versuchte, die ersten akkorden zu lernen.\nDas Auslandjahr in Kanada bescherte ihm neben dem Sport,  auch musikalische Momente mit seinem Gast Vater Barry, der ihn in die Kunst des Gitarrenspielens einweihte.\n Fortan, interessierte sich Claude immer mehr für die Musik. Singen war schon seit seiner Kindheit eine grosse leidenschaft. Ihn packte den Wunsch eigene Musik zu schreiben.\nSeit Tag 1 versuchte er eigene Songs zu komponieren. Den Wunsch eines Tages auf der Bühne zu stehen und eigene Titel zu präsentieren, wurde realität.\nNeben verschiednen Auftritten in lokalen Bars, Hochzeiten und dorffesten, spielte Claude schon als Vorband der St.Galler Band, \"Gion Stump and the lighthouse project\".\nMit \"Bastian Baker\" ( ehemaliger Team-Spieler), wurde er spontan auf die Bühne gebeten, um im Duett zu singen.\nAlejandro Reyes traf er einst am Bahnhof Zürich, wo sie 3h im Gebäude des Hauptbahnhofes Zürich spontan musizierten. An all diese erste Eindrücke von tollen Musiker, errinnert sich Claude gerne zurück.\nBisherige Highlights:\n- Bodmerfest 2016 (Premiere mit Band)\n- Badi Openair Stansstad 2016 (Headliner: Damien Lynn, Jan Oliver)\n- Kinderdorffest Leuk 2017\nVeröffentlichte Musik:\n\n- EP \"Coming Home\" 2017\nDer Musik-Stil geht in Richtung Pop/Folk, Pop-rock und  Singer/Songwriter.\nWir sind gespannt wie weit die Reise gehen wird:)"
+                    }
+                ],
+                "categories": [
+                    {
+                        "id": 46,
+                        "name": "Pop"
+                    }
+                ],
+                "state": {
+                    "name": "Valais",
+                    "code": "VS"
+                },
+                "listening_count": 459,
+                "listening_count_last_period": 0,
+                "is_broadcasted": false,
+                "singles_count": 5,
+                "performances": []
+            },
+            {
+                "uid": 6126,
+                "id": 6126,
+                "name": "Pierre Lautomne",
+                "language": null,
+                "permalink": "https://mx3.ch/pierre_lautomne_2",
+                "public_page_url": "https://mx3.ch/pierre_lautomne_2",
+                "permalink_name": "pierre_lautomne_2",
+                "created_at": "2006-09-16T01:10:17.000Z",
+                "city": "Vernier",
+                "address": "Pierre Lautomne\nC/O Nicolas Varidel\n88, rte de Peney\nCH-1214 Vernier",
+                "country": null,
+                "email": "infos@pierrelautomne.com",
+                "profile_views_count": 18594,
+                "playlists_count": 2,
+                "image": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                "url_for_image_original": "https://mx3.ch/pictures/mx3/file/0030/1085/original/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                "links": [
+                    {
+                        "name": "My space",
+                        "href": "http://www.myspace.com"
+                    },
+                    {
+                        "name": "Site web",
+                        "href": "http://www.pierrelautomne.com"
+                    }
+                ],
+                "biographies": [
+                    {
+                        "language_code": "FR",
+                        "description": "Pierre Lautomne est un chanteur Bio. \nMais pas de manières ni de grandes polémiques: il prend quelques mots très simples et nous parle de son quotidien d'homme, de ses cassures et de ses grands espoirs, de ses souvenirs de voyage et de sa quête d'humain.\nSa guitare patinée lui offre des mélodies comme des petites évidences.Il a le regard serein et bleuté, plein de cette vraie tendresse qui ne s'explique pas.\n\nAvant, sous le non de Saul Varidel, il avait déjà été remarqué avec son second album \"Toubabou\" (découverte francophone des radios publiques,fréquents passages en play list dans diverses radios suises).Il a d'ailleurs fait de nombreux concerts et connu plusieurs succès d'estime (Truffe de platine R.S.R.- prix des auditeurs, représentant de la Suisse lors de la journée international de la francophonie à radio france - Paris 2005, passage d'un titre en play list pendant 2 mois sur Europe 1 - été 2005).\n\nPour septembre 2007, cet artiste suisse nous livrera son troisième album de chanson française \"les choses premières\" teinté de ritournelles pop-rock et de folk-blues acoustique.\n\nUn retour aux sources de son inspiration musicale, un doux mélange de plein de disques-souvenirs: un peu comme si Souchon rencontrait Calexico ou si Cabrel se frottait aux premiers Supertramp.\n\nEt de ce nouveau tournant, Saul Varidel devient Pierre Lautomne.\n\nRéalisé et arrangé par Raphaël Noir (Jérémie Kisling, Climax), mixé par Stéphane \"Totor\" Tornare, cet album est peut-être à regarder davantage du côté du french songwrinting.\n\nSur scène, l'énergie est la même: un trio folk-blues qui ne s'embarasse d'aucune fioriture pour toucher là ou ça fait du bien. Avec Olivier Uldry (jenifer Weatherly, Demilliac, sara Wheeler)aux guitares et Guillaume Lagger (L'ironie du son, Jonas) à l'harmonica, à la grosse caisse et au tambourin, Pierre Lautomne nous donne à voir un petit monde enraciné dans un présent à la fois lucide et lumineux.\n"
+                    }
+                ],
+                "categories": [
+                    {
+                        "id": 1,
+                        "name": "Chanson"
+                    }
+                ],
+                "state": {
+                    "name": "Genève",
+                    "code": "GE"
+                },
+                "listening_count": 4065,
+                "listening_count_last_period": 16,
+                "is_broadcasted": true,
+                "singles_count": 4,
+                "performances": [
+                    {
+                        "name": null,
+                        "date": "2013-06-06T20:00:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "festival'entre 2",
+                        "location": null,
+                        "location_url": "http://www.theatre-octogone.ch/11/",
+                        "shopping_url": "http://www.theatre-octogone.ch/11/index.php?page=billetterie",
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": {
+                            "id": 46707,
+                            "name": "festival'entre 2",
+                            "address": "Case postale 39",
+                            "city": "Pully"
+                        }
+                    },
+                    {
+                        "name": "Pierre Lautomne à l'usage du monde",
+                        "date": "2011-02-24T20:00:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "L'usage du monde",
+                        "location": null,
+                        "location_url": "http://www.lusagedumonde.net",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": {
+                            "id": 39837,
+                            "name": "L'usage du monde",
+                            "address": "L'usage du monde\nrue des Savoises 9 bis\n1205 Genève\n(Plainpalais)",
+                            "city": "Genève"
+                        }
+                    },
+                    {
+                        "name": "au Royal",
+                        "date": "2009-10-24T20:30:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "Le Royal",
+                        "location": null,
+                        "location_url": "http://www.leroyal.ch",
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": {
+                            "id": 12972,
+                            "name": "Le Royal",
+                            "address": "Grand Rue 28, CP44\n2710 Tavannes",
+                            "city": "Tavannes"
+                        }
+                    },
+                    {
+                        "name": "Pierre Lautomne",
+                        "date": "2008-09-21T19:00:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "Label Suisse",
+                        "location": "Salle Métropole - Lausanne",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": {
+                            "id": 25465,
+                            "name": "Label Suisse",
+                            "address": null,
+                            "city": "Lausanne"
+                        }
+                    },
+                    {
+                        "name": "\"Les choses premières\"",
+                        "date": "2008-11-15T21:00:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "barking",
+                        "location": null,
+                        "location_url": "http://www.barking.ch",
+                        "shopping_url": "http://www.pierrelautomne.com",
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": {
+                            "id": 14398,
+                            "name": "barking",
+                            "address": "rue du seyon 38",
+                            "city": "Neuchâtel"
+                        }
+                    },
+                    {
+                        "name": "Emission Azimut - Radio Cité 92.2FM",
+                        "date": "2007-11-25T19:30:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "Emission Azimut",
+                        "location": null,
+                        "location_url": "http://www.azimutfm.com",
+                        "shopping_url": "http://www.azimutfm.com",
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": {
+                            "id": 12318,
+                            "name": "Emission Azimut",
+                            "address": "Radio Cité\nEmission Azimut\n2bis, rue Baylon\n1227 Carouge GE\n\nCourrier:\nAzimut.FM\nAdriano Pitteri\n60, rue de la Tambourine\n1227 Carouge GE\n\ninfo@azimut.fm\nhttp://www.azimut.fm",
+                            "city": "Genève"
+                        }
+                    },
+                    {
+                        "name": "Emission Azimut - Radio Cité 92.2FM",
+                        "date": "2007-11-24T19:30:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "Emission Azimut",
+                        "location": null,
+                        "location_url": "http://www.azimutfm.com",
+                        "shopping_url": "http://www.azimutfm.com",
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": {
+                            "id": 12318,
+                            "name": "Emission Azimut",
+                            "address": "Radio Cité\nEmission Azimut\n2bis, rue Baylon\n1227 Carouge GE\n\nCourrier:\nAzimut.FM\nAdriano Pitteri\n60, rue de la Tambourine\n1227 Carouge GE\n\ninfo@azimut.fm\nhttp://www.azimut.fm",
+                            "city": "Genève"
+                        }
+                    },
+                    {
+                        "name": "Montreux Jazz Festival \"Under The Sky\"",
+                        "date": "2007-07-20T20:00:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "Montreux",
+                        "location": "Montreux",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Festival du Chant du Gros",
+                        "date": "2007-09-14T17:30:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "Noirmont",
+                        "location": "Noirmont",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Fête de la musique",
+                        "date": "2007-06-16T21:00:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "à Nyon, dans la cour du château",
+                        "location": "à Nyon, dans la cour du château",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "le Bleu Lézard",
+                        "date": "2007-06-20T21:00:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "à Lausanne",
+                        "location": "à Lausanne",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Fêtes des grimpeurs-élageurs",
+                        "date": "2007-05-20T21:00:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "Arboretum National du Vallon de l'Aubonne",
+                        "location": "Arboretum National du Vallon de l'Aubonne",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Concours Médaille d'0r de la Chanson",
+                        "date": "2007-04-28T00:00:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "à Saignelégier.",
+                        "location": "à Saignelégier.",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Voix de fête en \"off\"",
+                        "date": "2007-03-17T18:00:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "Les enfants terribles",
+                        "location": "Les enfants terribles",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre Lautomne",
+                        "date": "2007-03-20T21:00:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "Le P'tit music'Hohl / Genève",
+                        "location": "Le P'tit music'Hohl / Genève",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre Lautomne",
+                        "date": "2006-12-16T21:30:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "Les Docks, première partie de Jérémie Kisling",
+                        "location": "Les Docks, première partie de Jérémie Kisling",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "L'Auberge du Cheval Blanc, en trio",
+                        "date": "2006-12-22T22:00:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "Carouge, place de l'Octroi",
+                        "location": "Carouge, place de l'Octroi",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "8.12.06, Auberge du cheval Blanc, avec Marc Aymon",
+                        "date": "2006-12-08T22:00:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "Carouge, Place de l' Octroi",
+                        "location": "Carouge, Place de l' Octroi",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "les Esserts",
+                        "date": "2006-09-21T20:30:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "Vernier",
+                        "location": "Vernier",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre Lautomne",
+                        "date": "2006-09-20T11:30:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "EPFL : Lausanne",
+                        "location": "EPFL : Lausanne",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Pierre lautomne",
+                        "date": "2006-11-11T21:30:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": " Salle communal de Satigny",
+                        "location": " Salle communal de Satigny",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    },
+                    {
+                        "name": "Label Suisse",
+                        "date": "2006-10-01T17:25:00.000Z",
+                        "band_name": "Pierre Lautomne",
+                        "stage_name": "R.S.R Lausanne",
+                        "location": "R.S.R Lausanne",
+                        "location_url": null,
+                        "shopping_url": null,
+                        "band": {
+                            "id": 6126,
+                            "name": "Pierre Lautomne",
+                            "url_for_image_thumb": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_head": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "url_for_image_list": "https://mx3.ch/pictures/mx3/file/0030/1085/square_small/Photo_pochette_album_Pierre_Lautomne.jpg?1398341079",
+                            "categories": [
+                                {
+                                    "id": 1,
+                                    "name": "Chanson"
+                                }
+                            ]
+                        },
+                        "stage": null
+                    }
+                ]
+            }
+        ]
+    }
+}
