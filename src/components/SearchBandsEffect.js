@@ -13,26 +13,24 @@ export default function SearchBandsEffect(f) {
         let subscribed = true
 
         if(counter>0) {
-            // TODO fix this timer
-            setTimeout(()=>{},1000) // artificially slow down search to show loading
-
             setIsLoading(true)
 
-
-            f().then(
-                r => {
-                    if (subscribed) {
-                        setIsLoading(false)
-                        setResult(r.response.bands)
+            setTimeout(() => { // artificially slow down search to show loading
+                f().then(
+                    r => {
+                        if (subscribed) {
+                            setIsLoading(false)
+                            setResult(r.response.bands)
+                        }
+                    },
+                    e => {
+                        if (subscribed) {
+                            setIsLoading(false)
+                            setError(e)
+                        }
                     }
-                },
-                e => {
-                    if (subscribed) {
-                        setIsLoading(false)
-                        setError(e)
-                    }
-                }
-            )
+                )
+            }, 1000)
         }
         return function cleanup(){
             subscribed = false
