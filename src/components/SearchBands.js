@@ -7,7 +7,7 @@ export default function SearchBands(){
     const [searchQuery, setSearchQuery] = useState()
 
     const api = "https://api.srgssr.ch/mx3/v2/bands?query=" + searchQuery
-    //const api = "mockBands.json"
+    //const api = "mockBands.json" // debug
     const [result, error, isLoading, triggerSearch] = SearchBandsEffect(
         () => fetch(
             api,

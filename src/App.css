@@ -24,3 +24,10 @@
 .view-count > .oi { /* icon */
     padding-top: 0.15em;
 }
+
+.nav.nav-pills {
+    align-items: center;
+}
+.nav.nav-pills .nav-item:nth-child(3) {
+    flex-grow: 1;
+}

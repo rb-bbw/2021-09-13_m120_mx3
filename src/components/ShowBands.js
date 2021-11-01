@@ -6,7 +6,7 @@ export default function ShowBands({data}) {
     return (
         <>
             <Row xs={1} md={2} lg={4} xl={5} className="g-4" aria-live="polite">
-            {data.map(i => (
+            {data && data.map(i => (
                 <Col key={"bandCol-"+i.name}>
                     <Card>
                         <Card.Img variant="top" src={i.image}/>
