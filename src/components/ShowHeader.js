@@ -1,18 +1,16 @@
 import {Image, Nav} from "react-bootstrap";
 import {withRouter} from "react-router-dom";
-import SearchBands from "./SearchBands";
+import ShowSearch from "./ShowSearch";
 
-function ShowHeader(props) {
-    const { location } = props;
-
-    const isSearch = (location.pathname === "/search");
+function ShowHeader({location, query, setQuery}) {
+    const isSearch = location.pathname.startsWith("/search");
 
     return (
         <>
             <Nav variant="pills" defaultActiveKey="/home">
                 <Nav.Item>
                     <Nav.Link eventKey="home" href="/">
-                        <Image src="mx3-logo.png" rounded />
+                        <Image src="/mx3-logo.png" rounded alt="logo"/>
                     </Nav.Link>
                 </Nav.Item>
                 <Nav.Item>
@@ -20,7 +18,7 @@ function ShowHeader(props) {
                 </Nav.Item>
                 {isSearch &&
                     <Nav.Item>
-                        <SearchBands/>
+                        <ShowSearch query={query} search={setQuery} />
                     </Nav.Item>
                 }
             </Nav>

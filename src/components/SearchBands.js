@@ -1,13 +1,9 @@
-import {Button, FormControl, InputGroup, Spinner} from "react-bootstrap";
 import SearchBandsEffect from "./SearchBandsEffect";
-import ShowBands from "./ShowBands";
-import {useState} from "react";
 
-export default function SearchBands(){
-    const [searchQuery, setSearchQuery] = useState()
+export default function SearchBands(searchQuery){
 
-    const api = "https://api.srgssr.ch/mx3/v2/bands?query=" + searchQuery
-    //const api = "mockBands.json" // debug
+    //const api = "https://api.srgssr.ch/mx3/v2/bands?query=" + searchQuery
+    const api = "/mockBands.json" // debug
     const [result, error, isLoading, triggerSearch] = SearchBandsEffect(
         () => fetch(
             api,
@@ -36,32 +32,5 @@ export default function SearchBands(){
         }
     })
 
-    return (
-        <>
-            <InputGroup className="mb-3">
-                <FormControl
-                    placeholder="Band name"
-                    aria-label="Band name"
-                    aria-describedby="search"
-                    value={searchQuery}
-                    onChange={e => setSearchQuery(e.target.value)}
-                />
-                <Button
-                    onClick={triggerSearch}
-                    variant="outline-primary"
-                    id="search">
-                    {!isLoading && "Search"}
-                    {isLoading && <div>Loading... <Spinner
-                        as="span"
-                        animation="border"
-                        size="sm"
-                        role="status"
-                        aria-hidden="true"
-                    /></div>}
-                </Button>
-            </InputGroup>
-            {error && <p>An error occurred</p>}
-            {result && <ShowBands data={result}/>}
-        </>
-    )
+    return [result, error, isLoading, triggerSearch]
 }

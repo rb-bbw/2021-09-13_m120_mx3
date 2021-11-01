@@ -12,9 +12,10 @@ export default function SearchBandsEffect(f) {
     useEffect(() => {
         let subscribed = true
 
-        setTimeout(()=>{},1000) // artificially slow down search to show loading
-
         if(counter>0) {
+            // TODO fix this timer
+            setTimeout(()=>{},1000) // artificially slow down search to show loading
+
             setIsLoading(true)
 
 
