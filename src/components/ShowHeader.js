@@ -1,4 +1,4 @@
-import {Image, Nav} from "react-bootstrap";
+import {Nav, Navbar} from "react-bootstrap";
 import {withRouter} from "react-router-dom";
 import ShowSearch from "./ShowSearch";
 
@@ -7,21 +7,26 @@ function ShowHeader({location, query, setQuery}) {
 
     return (
         <>
-            <Nav variant="pills" defaultActiveKey="/home">
-                <Nav.Item>
-                    <Nav.Link eventKey="home" href="/">
-                        <Image src="/mx3-logo.png" rounded alt="logo"/>
-                    </Nav.Link>
-                </Nav.Item>
-                <Nav.Item>
-                    <Nav.Link eventKey="search" href="/search">Search</Nav.Link>
-                </Nav.Item>
-                {isSearch &&
-                    <Nav.Item>
-                        <ShowSearch query={query} search={setQuery} />
-                    </Nav.Item>
-                }
-            </Nav>
+            <Navbar>
+                <Navbar.Brand href="/">
+                    <img
+                        alt="logo"
+                        src={"/mx3-logo.png"}
+                        height="50"
+                    />
+                </Navbar.Brand>
+                <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+                <Navbar.Collapse id="responsive-navbar-nav">
+                    <Nav>
+                        <Nav.Link href="/search">Search</Nav.Link>
+                    </Nav>
+                    {isSearch &&
+                    <Nav className="me-auto">
+                        <ShowSearch query={query} search={setQuery}/>
+                    </Nav>
+                    }
+                </Navbar.Collapse>
+            </Navbar>
         </>
     );
 }

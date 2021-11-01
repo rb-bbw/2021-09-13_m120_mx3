@@ -2,11 +2,14 @@ import {Card, Col, Row} from "react-bootstrap";
 import SearchBands from "./SearchBands";
 import {useEffect} from "react";
 
-export default function ShowBands(query) {
+export default function ShowBands({query}) {
 
     const [data, error, isLoading, triggerSearch] = SearchBands(query);
 
-    useEffect(triggerSearch, [query]);
+    useEffect(
+        () => query && triggerSearch(), // only trigger when query is given
+        [query]
+    );
 
     return (
         <>
