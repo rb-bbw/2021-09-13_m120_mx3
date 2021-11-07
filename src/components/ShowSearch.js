@@ -1,4 +1,4 @@
-import {Button, FormControl, InputGroup, Spinner} from "react-bootstrap";
+import {Button, FormControl, InputGroup} from "react-bootstrap";
 import {useState} from "react";
 
 export default function ShowSearch({query, search}){
