@@ -1,4 +1,4 @@
-import {Card, Col, Row} from "react-bootstrap";
+import {Card, Col, Row, Spinner} from "react-bootstrap";
 import SearchBands from "./SearchBands";
 import {useEffect} from "react";
 
@@ -13,8 +13,11 @@ export default function ShowBands({query}) {
 
     return (
         <>
-            <Row xs={1} md={2} lg={4} xl={5} className="g-4" aria-live="polite">
-                {data && data.map(i => (
+            {isLoading && <Spinner animation="border" role="status">
+                <span className="visually-hidden">Loading...</span>
+            </Spinner>}
+            {data && <Row xs={1} md={2} lg={4} xl={5} className="g-4" aria-live="polite">
+                {data.map(i => (
                     <Col key={"bandCol-"+i.name}>
                         <Card>
                             <Card.Img variant="top" src={i.image} alt={i.name + " band image"}/>
@@ -37,7 +40,7 @@ export default function ShowBands({query}) {
                         </Card>
                     </Col>
                 ))}
-            </Row>
+            </Row>}
         </>
     )
 }
